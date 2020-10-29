@@ -1,0 +1,1 @@
+export type PostItemDescrtiptionStatus = "flex" | "none";
